@@ -1,4 +1,4 @@
-package com.guri.Tut.repo;
+package com.guri.Tut;
 
 import org.springframework.data.repository.Repository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;

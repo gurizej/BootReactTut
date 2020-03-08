@@ -1,6 +1,6 @@
-package com.guri.Tut.repo;
+package com.guri.Tut;
 //import static com.greglturnquist.payroll.WebSocketConfiguration.*;
-import static com.guri.Tut.repo.WebSocketConfiguration.*;
+import static com.guri.Tut.WebSocketConfiguration.*;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.rest.core.annotation.HandleAfterCreate;

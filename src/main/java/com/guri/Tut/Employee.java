@@ -1,4 +1,4 @@
-package com.guri.Tut.repo;
+package com.guri.Tut;
 
 import java.util.Objects;
 

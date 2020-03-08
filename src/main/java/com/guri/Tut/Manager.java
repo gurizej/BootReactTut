@@ -1,4 +1,4 @@
-package com.guri.Tut.repo;
+package com.guri.Tut;
 
 import net.minidev.json.annotate.JsonIgnore;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;

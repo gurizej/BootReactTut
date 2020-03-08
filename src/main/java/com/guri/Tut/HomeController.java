@@ -1,4 +1,4 @@
-package com.guri.Tut.controller;
+package com.guri.Tut;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
